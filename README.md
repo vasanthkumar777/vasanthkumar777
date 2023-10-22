@@ -3,7 +3,7 @@
 
 ![image](https://github.com/vasanthkumar777/vasanthkumar777/assets/148183913/91681817-3d97-41b0-b103-a44b39e3831b)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthkumar777&label=Profile%20views&color=0e75b6&style=flat" alt="vasanthkumar777" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasanthkumar777&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 - 🌱 I’m currently learning **Data science, Artificial intelligence**
 
